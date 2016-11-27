@@ -5,32 +5,15 @@
     
   <url>
     <loc>//litten.me/2016/11/27/hello-world/</loc>
-    <lastmod>2016-11-27T09:29:28.918Z</lastmod>
+    <lastmod>2016-11-27T10:07:33.998Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
+        <title>你好 Blog</title>
         <pubTime>2016-11-27T09:22:42.000Z</pubTime>
         
         <tag>杂谈</tag>
          
         <tag>octopress</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2016/11/27/text/</loc>
-    <lastmod>2016-11-27T09:05:15.506Z</lastmod>
-    <data>
-        <display>
-        <title>测试</title>
-        <pubTime>2016-11-27T09:03:50.000Z</pubTime>
-        
-        <tag>测试</tag>
          
          
            
