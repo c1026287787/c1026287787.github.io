@@ -4,7 +4,7 @@
 
     
   <url>
-    <loc>//litten.me/2016/11/27/hello-world/</loc>
+    <loc>//chenming.online/2016/11/27/hello-world/</loc>
     <lastmod>2016-11-27T10:07:33.998Z</lastmod>
     <data>
         <display>
