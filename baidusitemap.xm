@@ -3,6 +3,23 @@
 
 
     
+  <url>
+    <loc>//litten.me/2016/11/27/text/</loc>
+    <lastmod>2016-11-27T09:05:15.506Z</lastmod>
+    <data>
+        <display>
+        <title>测试</title>
+        <pubTime>2016-11-27T09:03:50.000Z</pubTime>
+        
+        <tag>测试</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
     
     
     
