@@ -5,7 +5,7 @@
     
   <url>
     <loc>//chenming.online/2016/11/27/hello-world/</loc>
-    <lastmod>2016-11-27T10:07:33.998Z</lastmod>
+    <lastmod>2016-12-03T07:58:25.626Z</lastmod>
     <data>
         <display>
         <title>你好 Blog</title>
